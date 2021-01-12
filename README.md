@@ -31,6 +31,5 @@ In a real-world scenario, both of the above scaling methods are used. We pick th
 
 
 #### references
-* https://medium.com/@spencerwgoodman/vertical-and-horizontal-scaling-in-system-design-718cabb80a1a
 * https://www.youtube.com/watch?v=xpDnVSmNFX0
 * https://www.youtube.com/watch?v=K0Ta65OqQkY
