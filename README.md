@@ -28,3 +28,9 @@ Both of the above Scalings have their advantages and disadvantages some of which
 
 ### Conclusion:
 In a real-world scenario, both of the above scaling methods are used. We pick the positives of both the vertical and horizontal scaling and use them to build robust systems. Hence if you want your system to scale and also be fast use both. But Horizontal scaling requires a lot more effort and skills to build, hence there are services like AWS, AZURE, etc. to aid that need for their users.
+
+
+#### references
+* https://medium.com/@spencerwgoodman/vertical-and-horizontal-scaling-in-system-design-718cabb80a1a
+* https://www.youtube.com/watch?v=xpDnVSmNFX0
+* https://www.youtube.com/watch?v=K0Ta65OqQkY
