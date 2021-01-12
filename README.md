@@ -21,7 +21,7 @@ Both of the above Scalings have their advantages and disadvantages some of which
 #### **Vertical Scaling Advantages and Disadvantages**:
 * Loosely coupled, hence easy to remove and add more servers.
 * Resilient towards failure
-* RPC has used hence a slower response to the user.
+* RPC is used hence a slower response to the user.
 * Load Balancing is required. 
 * Data inconsistency
 * Scales easily compared to horizontal
